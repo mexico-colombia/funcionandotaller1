@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tfg_alvaroperezdelgado.alarma">
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+     
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".addAlarm" />
+        <activity android:name=".Access" />
+        <activity android:name=".addTwitterUser" />
+        <activity android:name=".Days" />
+
+        <receiver android:name=".AlarmReceiver" />
+
+        <service
+            android:name=".RingTonePlayingService"
+            android:enabled="true" />
+
+        <activity android:name=".Options" />
+        <activity android:name=".AddUbuUser" />
+        <activity android:name=".AddWeatherUser" />
+        <activity android:name=".AddMessageUser" />
+        <activity android:name=".PruebasAlarma" />
+        <activity android:name=".PruebasUsuario" />
+        <activity android:name=".SelectSong" />
+        <activity android:name=".Speech" />
+    </application>
+
+</manifest>

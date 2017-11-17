@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "tfg_alvaroperezdelgado.alarma.addTwitterUser"/>
+      <point      
+        x = "592"      
+        y = "1064"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "tfg_alvaroperezdelgado.alarma.SelectSong"/>
+      <point      
+        x = "52"      
+        y = "4204"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "tfg_alvaroperezdelgado.alarma.PruebasUsuario"/>
+      <point      
+        x = "224"      
+        y = "9944"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "tfg_alvaroperezdelgado.alarma.Days"/>
+      <point      
+        x = "988"      
+        y = "-88"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "tfg_alvaroperezdelgado.alarma.MainActivity"/>
+      <point      
+        x = "2868"      
+        y = "-52"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "tfg_alvaroperezdelgado.alarma.Speech"/>
+      <point      
+        x = "4304"      
+        y = "8380"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "tfg_alvaroperezdelgado.alarma.addAlarm"/>
+      <point      
+        x = "3848"      
+        y = "1024"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "tfg_alvaroperezdelgado.alarma.AddUbuUser"/>
+      <point      
+        x = "2392"      
+        y = "3580"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "tfg_alvaroperezdelgado.alarma.AddMessageUser"/>
+      <point      
+        x = "3252"      
+        y = "3856"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "tfg_alvaroperezdelgado.alarma.PruebasAlarma"/>
+      <point      
+        x = "1620"      
+        y = "9520"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "tfg_alvaroperezdelgado.alarma.Access"/>
+      <point      
+        x = "1892"      
+        y = "680"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "tfg_alvaroperezdelgado.alarma.Options"/>
+      <point      
+        x = "696"      
+        y = "2600"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "tfg_alvaroperezdelgado.alarma.TimeDate"/>
+      <point      
+        x = "112"      
+        y = "-12"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "tfg_alvaroperezdelgado.alarma.AddWeatherUser"/>
+      <point      
+        x = "1316"      
+        y = "4224"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="tfg_alvaroperezdelgado.alarma.Cronometro">
+
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="400dp"
+        android:orientation="vertical"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/linearLayout"
+        android:layout_alignBottom="@+id/parcial"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/Cronometro">
+
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/parcial"
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/btn_iniciar"
+        android:layout_below="@+id/Cronometro">
+
+        <EditText
+            android:id="@+id/tiempos"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" "
+            android:textColor="#FF00" />
+
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/Cronometro"
+        android:layout_width="300dp"
+        android:layout_height="70dp"
+        android:ems="10"
+        android:text="00:00:00:000"
+        android:textColor="#000"
+        android:textSize="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+
+    <Button
+        android:id="@+id/btn_iniciar"
+        android:layout_width="142dp"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:background="#FFFFFF"
+        android:text="Iniciar"
+        android:textColor="#00FF00"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/btn_parcial"
+        android:layout_width="190dp"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        android:text="Parcial"
+        android:textColor="#00FFCC"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/btn_detener"
+        android:layout_width="190dp"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        android:text="Detener"
+        android:textColor="#FF00"
+        android:textSize="20dp" />
+
+</RelativeLayout>

@@ -1,4 +1,4 @@
-package tfg_alvaroperezdelgado.alarma;
+package com.omar.alarma;
 
 import android.content.Context;
 import android.support.v7.app.AppCompatActivity;

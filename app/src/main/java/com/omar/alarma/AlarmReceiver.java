@@ -1,4 +1,4 @@
-package tfg_alvaroperezdelgado.alarma;
+package com.omar.alarma;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

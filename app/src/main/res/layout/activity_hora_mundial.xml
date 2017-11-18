@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    tools:context="tfg_alvaroperezdelgado.alarma.HoraMundial">
+    tools:context="tfg_alvaroperezdelgado.alarma.com.omar.alarma.HoraMundial">
 
     <TextView
         android:id="@+id/textView"

@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="tfg_alvaroperezdelgado.alarma.AddUbuUser">
+    tools:context="tfg_alvaroperezdelgado.alarma.com.omar.alarma.AddUbuUser">
 
     <TableRow
         android:layout_width="match_parent"

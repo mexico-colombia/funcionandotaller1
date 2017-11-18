@@ -1,4 +1,4 @@
-package tfg_alvaroperezdelgado.alarma;
+package com.omar.alarma;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -9,8 +9,6 @@ import android.widget.Switch;
 import Model.Alarm;
 
 import java.util.List;
-
-import Model.Alarm;
 
 public class Days extends AppCompatActivity {
 

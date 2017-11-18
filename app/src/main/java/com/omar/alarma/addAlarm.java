@@ -1,4 +1,4 @@
-package tfg_alvaroperezdelgado.alarma;
+package com.omar.alarma;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;

@@ -6,7 +6,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "tfg_alvaroperezdelgado.alarma.addTwitterUser"/>
+        className = "com.omar.alarma.addTwitterUser"/>
       <point      
         x = "592"      
         y = "1064"/>
@@ -14,7 +14,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "tfg_alvaroperezdelgado.alarma.SelectSong"/>
+        className = "com.omar.alarma.SelectSong"/>
       <point      
         x = "52"      
         y = "4204"/>
@@ -22,7 +22,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "tfg_alvaroperezdelgado.alarma.PruebasUsuario"/>
+        className = "com.omar.alarma.PruebasUsuario"/>
       <point      
         x = "224"      
         y = "9944"/>
@@ -30,7 +30,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "tfg_alvaroperezdelgado.alarma.Days"/>
+        className = "com.omar.alarma.Days"/>
       <point      
         x = "988"      
         y = "-88"/>
@@ -38,7 +38,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "tfg_alvaroperezdelgado.alarma.MainActivity"/>
+        className = "com.omar.alarma.MainActivity"/>
       <point      
         x = "2868"      
         y = "-52"/>
@@ -46,7 +46,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "tfg_alvaroperezdelgado.alarma.Speech"/>
+        className = "com.omar.alarma.Speech"/>
       <point      
         x = "4304"      
         y = "8380"/>
@@ -54,7 +54,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "tfg_alvaroperezdelgado.alarma.addAlarm"/>
+        className = "com.omar.alarma.addAlarm"/>
       <point      
         x = "3848"      
         y = "1024"/>
@@ -62,7 +62,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "tfg_alvaroperezdelgado.alarma.AddUbuUser"/>
+        className = "com.omar.alarma.AddUbuUser"/>
       <point      
         x = "2392"      
         y = "3580"/>
@@ -70,7 +70,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "tfg_alvaroperezdelgado.alarma.AddMessageUser"/>
+        className = "com.omar.alarma.AddMessageUser"/>
       <point      
         x = "3252"      
         y = "3856"/>
@@ -78,7 +78,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "tfg_alvaroperezdelgado.alarma.PruebasAlarma"/>
+        className = "com.omar.alarma.PruebasAlarma"/>
       <point      
         x = "1620"      
         y = "9520"/>
@@ -86,7 +86,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "tfg_alvaroperezdelgado.alarma.Access"/>
+        className = "com.omar.alarma.Access"/>
       <point      
         x = "1892"      
         y = "680"/>
@@ -94,7 +94,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "tfg_alvaroperezdelgado.alarma.Options"/>
+        className = "com.omar.alarma.Options"/>
       <point      
         x = "696"      
         y = "2600"/>
@@ -102,7 +102,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "tfg_alvaroperezdelgado.alarma.TimeDate"/>
+        className = "com.omar.alarma.TimeDate"/>
       <point      
         x = "112"      
         y = "-12"/>
@@ -110,7 +110,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "tfg_alvaroperezdelgado.alarma.AddWeatherUser"/>
+        className = "com.omar.alarma.AddWeatherUser"/>
       <point      
         x = "1316"      
         y = "4224"/>

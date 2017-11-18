@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="tfg_alvaroperezdelgado.alarma">
+    package="com.omar.alarma">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -10,35 +10,35 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.omar.alarma.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".addAlarm" />
-        <activity android:name=".Access" />
-        <activity android:name=".addTwitterUser" />
-        <activity android:name=".Days" />
+        <activity android:name="com.omar.alarma.addAlarm" />
+        <activity android:name="com.omar.alarma.Access" />
+        <activity android:name="com.omar.alarma.addTwitterUser" />
+        <activity android:name="com.omar.alarma.Days" />
 
-        <receiver android:name=".AlarmReceiver" />
+        <receiver android:name="com.omar.alarma.AlarmReceiver" />
 
         <service
-            android:name=".RingTonePlayingService"
+            android:name="com.omar.alarma.RingTonePlayingService"
             android:enabled="true" />
 
-        <activity android:name=".Options" />
-        <activity android:name=".AddUbuUser" />
-        <activity android:name=".AddWeatherUser" />
-        <activity android:name=".AddMessageUser" />
-        <activity android:name=".PruebasAlarma" />
-        <activity android:name=".PruebasUsuario" />
-        <activity android:name=".SelectSong" />
-        <activity android:name=".Speech" />
-        <activity android:name=".Temporizador" />
-        <activity android:name=".HoraMundial" />
-        <activity android:name=".Cronometro"></activity>
+        <activity android:name="com.omar.alarma.Options" />
+        <activity android:name="com.omar.alarma.AddUbuUser" />
+        <activity android:name="com.omar.alarma.AddWeatherUser" />
+        <activity android:name="com.omar.alarma.AddMessageUser" />
+        <activity android:name="com.omar.alarma.PruebasAlarma" />
+        <activity android:name="com.omar.alarma.PruebasUsuario" />
+        <activity android:name="com.omar.alarma.SelectSong" />
+        <activity android:name="com.omar.alarma.Speech" />
+        <activity android:name="com.omar.alarma.Temporizador" />
+        <activity android:name="com.omar.alarma.HoraMundial" />
+        <activity android:name="com.omar.alarma.Cronometro"></activity>
     </application>
 
 </manifest>
